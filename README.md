@@ -2,7 +2,5 @@
 
 - Hola soy Jesus 
 - Reinhard Vicent Conde Quispe
+- Agregando a mi rama
 - Antoni Nolasco
-
-- Probando mi rama
-
